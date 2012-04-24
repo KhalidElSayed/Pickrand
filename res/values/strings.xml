@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Pickrand</string>
+    
+    <string name="about">About Pickrand</string>
+    <string name="random_item">Pick random item</string>
+    <string name="add_category">Add category</string>
+    <string name="add_item">Add item</string>
+    <string name="edit_category">Edit category</string>
+    <string name="edit_item">Edit item</string>
+    
+    <string name="edit">Edit</string>
+    <string name="delete">Delete</string>
+    
+    <string name="about_title">About Pickrand</string>
+    <string name="about_message">
+    	&lt;b&gt;Created with ActiveAndroid&lt;/b&gt;&lt;br /&gt;
+    	www.activeandroid.com&lt;br /&gt;&lt;br /&gt;
+    	&lt;b&gt;Download the source&lt;/b&gt;&lt;br /&gt;
+    	www.activeandroid.com/help/sample-project
+    </string>
+</resources>
